@@ -1,0 +1,6 @@
+[submodule "forward-mail"]
+	path = forward-mail
+	url = git@github.com:ImportMengjie/forward-mail.git
+[submodule "luci-app-forward-mail"]
+	path = luci-app-forward-mail
+	url = git@github.com:ImportMengjie/luci-app-forward-mail.git
